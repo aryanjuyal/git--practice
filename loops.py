@@ -12,6 +12,7 @@ print(chai_types["Masala"])
 print(chai_types.get("green"))
 chai_types["green"]="fresh"
 print(chai_types)
+chai_types.pop()
 
 
 # itertaion in dictonary 
